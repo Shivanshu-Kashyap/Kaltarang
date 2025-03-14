@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Grid Background */
+/* globals.css or index.css */
+.bg-grid {
+  background-color: #E6E6FA; /* Lavender Background */
+  background-image: radial-gradient(rgba(255, 255, 255, 0.1) 10%, transparent 10%);
+  background-size: 30px 30px; /* Adjust grid size */
+  background-position: 0 0;
+}
+
