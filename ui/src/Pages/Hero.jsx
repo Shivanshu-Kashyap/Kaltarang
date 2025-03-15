@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <div className="flex flex-col items-center justify-center h-screen w-full text-black text-center">
       {/* Main Title */}
-      <h1 className="text-[clamp(2rem,10vw,8rem)] font-bold tracking-wide uppercase">
+      <h1 className="text-[clamp(2rem,10vw,8rem)]  font-bold tracking-wide uppercase">
         KALTARANG
       </h1>
 

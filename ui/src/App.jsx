@@ -12,6 +12,7 @@ import Footer from "./Components/Footer";
 import LoadingAnimation from "./Components/LoadingAnimation";
 import StartScreen from "./Components/StartScreen";
 import MoonReveal from "./Components/MoonReveal";
+import CompetitionsSection from './Pages/Plannet'
 import "./index.css"; // Ensure Tailwind is imported properly
 
 function MainWebsite() {
@@ -25,6 +26,7 @@ function MainWebsite() {
       <VideoSection />
       <SponsorsSection />
       <HighlightsPage />
+      <CompetitionsSection />
       <GalleryCircle />
       <Merch />
       <Footer />
