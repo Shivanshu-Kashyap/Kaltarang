@@ -23,7 +23,7 @@ export default function SnakeEffect() {
     const gridSize = 20
     const gridColor = "rgba(0, 0, 0, 0.05)"
     const snakeColor = "#000"
-    const foodColor = "#ccbe8e"
+    const foodColor = "#E6E6FA"
     const snakeSpeed = 8
     const initialLength = 5
 
