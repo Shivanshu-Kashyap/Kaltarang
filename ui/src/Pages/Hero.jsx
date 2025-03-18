@@ -1,12 +1,16 @@
 import React from "react";
+import "./style.css"
 
 const Hero = () => {
   return (
     <div className="flex flex-col items-center justify-center h-screen w-full text-black text-center">
       {/* Main Title */}
-      <h1 className="text-[clamp(2rem,10vw,8rem)]  font-bold tracking-wide uppercase">
-        KALTARANG
-      </h1>
+      <h1 
+  className="text-[clamp(6rem,22.5vw,18rem)] font-drunk text-[18rem] uppercase">
+  KALTARANG
+</h1>
+
+
 
       {/* Bottom Section */}
       <div className="absolute bottom-10 w-full flex flex-col md:flex-row items-center justify-between px-4 md:px-6 text-sm uppercase space-y-4 md:space-y-0">
