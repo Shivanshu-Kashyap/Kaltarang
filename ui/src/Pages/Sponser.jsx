@@ -3,12 +3,12 @@ import s1 from "../assets/Sponser/s1.png";
 
 // Sponsor logos (Replace with actual image URLs)
 const sponsors = [
-  { name: "SBI", src: s1 },
-  { name: "Domino's",  src: s1 },
-  { name: "OYO", src: s1 },
-  { name: "ASUS",src: s1 },
-  { name: "Bharat Petroleum",src: s1 },
-  { name: "eBay", src: s1 },
+  { name: "#", src: '' },
+  { name: "#", src: '' },
+  { name: "#", src: '' },
+  { name: "#", src: '' },
+  { name: "#", src: '' },
+  { name: "#", src: '' },
 ];
 
 const SponsorsSection = () => {
