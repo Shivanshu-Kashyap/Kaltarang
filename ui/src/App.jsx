@@ -37,10 +37,10 @@ function MainWebsite() {
 function App() {
   return (
     <Routes>
-        <Route path="/" element={<LoadingAnimation />} />
-        <Route path="/start" element={<StartScreen />} />
-        <Route path="/moon" element={<MoonReveal />} />
-        <Route path="/home" element={<MainWebsite />} />
+      <Route path="/" element={<LoadingAnimation />} />
+      <Route path="/start" element={<StartScreen />} />
+      <Route path="/moon" element={<MoonReveal />} />
+      <Route path="/home" element={<MainWebsite />} />
     </Routes>
   );
 }
