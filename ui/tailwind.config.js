@@ -6,11 +6,13 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        drunk: ["DrunkText", "sans-serif"],
+      },
       clipPath: {
         'polygon-triangle': 'polygon(100% 0, 0 100%, 100% 100%)',
       },
     },
   },
   plugins: [],
-}
-
+};
