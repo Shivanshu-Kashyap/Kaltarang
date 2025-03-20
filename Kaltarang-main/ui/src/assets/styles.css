@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "DrunkText";
+    src: url("../assets/fonts/Druk-Bold-Trial.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Bitend Demo";
+    src: url("../assets/fonts/Bitend-Demo.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "CS Caleb Mono Demo";
+    src: url("../assets/fonts/CSCalebMono-Regular_demo-BF66fdfdb41c984.otf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Pixter Granular";
+    src: url("../assets/fonts/Pixter-Granular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Poxast";
+    src: url("../assets/fonts/poxast-regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+  
