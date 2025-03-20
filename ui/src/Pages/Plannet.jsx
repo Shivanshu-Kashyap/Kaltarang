@@ -47,14 +47,8 @@ function plannet() {
   ];
 
   return (
-    <div className="w-full h-screen bg-grid relative overflow-hidden p-4"
-      style={{
-    backgroundColor: "#E6E6FA",
-    backgroundImage:
-      "radial-gradient(rgba(255, 255, 255, 0.1) 10%, transparent 10%)",
-    backgroundSize: "30px 30px",
-    backgroundPosition: "0 0",
-  }} >
+    <div className="w-full h-screen  relative overflow-hidden p-4"
+    >
       <div className="max-w-[1400px] mx-auto flex items-center justify-between">
         {/* Planets Section */}
         <div className="relative w-[600px] h-[600px]">

@@ -99,7 +99,7 @@ export default function GalleryCircle() {
   }, []);
 
   return (
-    <div className="relative h-screen w-full overflow-hidden bg-grid" ref={containerRef}>
+    <div className="relative h-screen w-full overflow-hidden " ref={containerRef}>
       <canvas ref={canvasRef} className="absolute inset-0 z-0" style={{ imageRendering: "pixelated" }} />
       <div className="absolute inset-0 flex items-center justify-center z-20">
         <h1 className="text-6xl font-bold font-mono tracking-wider text-gray-800">GALLERY</h1>
