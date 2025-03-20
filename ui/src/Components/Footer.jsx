@@ -40,9 +40,9 @@ const ExplorerPath = () => {
         {/* Team Members */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full my-8">
           {[
-            { name: "NIHARIKA PANT", phone: "+91 82879 1341", email: "22mc302@rgpt.ac.in" },
-            { name: "SHRIANSH MISHRA", phone: "+91 62640 64403", email: "22k3050@rgpt.ac.in" },
-            { name: "UTSAV SINGHLA", phone: "+91 89602 01569", email: "22k3050@rgpt.ac.in" },
+            { name: "NIHARIKA PANT", phone: "+91 82879 11341", email: "22mc3022@rgpt.ac.in" },
+            { name: "SHRIANSH MISHRA", phone: "+91 62640 64403", email: "22it3050@rgpt.ac.in" },
+            { name: "UTSAV SHINGALA", phone: "+91 89802 01569", email: "22cs3065@rgpt.ac.in" },
           ].map((member, index) => (
             <div key={index} className="text-center">
               <h3 className="font-mono text-lg md:text-xl font-bold">{member.name}</h3>
