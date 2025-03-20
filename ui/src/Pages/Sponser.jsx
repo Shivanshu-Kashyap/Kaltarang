@@ -1,14 +1,14 @@
 import React from "react";
-import s1 from "../assets/Sponser/s1.png";
+import Blank from "../assets/Sponser/Blank .jpg";
 
 // Sponsor logos (Replace with actual image URLs)
 const sponsors = [
-  { name: "#", src: '' },
-  { name: "#", src: '' },
-  { name: "#", src: '' },
-  { name: "#", src: '' },
-  { name: "#", src: '' },
-  { name: "#", src: '' },
+  { name: "#", src: Blank },
+  { name: "#", src: Blank},
+  { name: "#", src: Blank },
+  { name: "#", src: Blank},
+  { name: "#", src: Blank },
+  { name: "#", src: Blank },
 ];
 
 const SponsorsSection = () => {
