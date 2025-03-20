@@ -18,7 +18,7 @@ const ExplorerPath = () => {
         <div className="w-full text-center mb-8">
           <div className="flex items-center justify-center gap-2">
             <div className="h-px bg-gray-700 w-24 md:w-32"></div>
-            <div className="text-xs md:text-sm tracking-widest text-gray-700">EXPLORER PATH</div>
+            <div className="text-xs md:text-sm tracking-widest text-gray-700">EXPLORER  PATH</div>
             <div className="h-px bg-gray-700 w-24 md:w-32"></div>
           </div>
         </div>
